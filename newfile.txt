@@ -217,3 +217,11 @@ Transforms the Directory into a Repository:
 The folder becomes a local repository where you can commit changes, create branches, and link to a remote repository.
 
 
+the -m option in the git commit command stands for message. It allows you to include a commit message directly in the command line, instead of opening a text editor.
+
+Why Do You Need a Commit Message?
+A commit message describes the changes being saved in the commit. This is helpful for:
+
+Understanding the purpose of the commit.
+Collaborating with others by providing context about what was changed.
+Debugging or reviewing the project's history later.
